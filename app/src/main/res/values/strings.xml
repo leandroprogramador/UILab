@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UILab</string>
+    <string name="welcome_message">Welcome to UI APP</string>
+    <string name="login_or_create">Login with your email and password or create a new account</string>
+    <string name="email_label">Email:</string>
+    <string name="email_example">myemail@email.com</string>
+    <string name="password_label">Password:</string>
+    <string name="pass_example">* * * * * * *</string>
+    <string name="login">Login</string>
+    <string name="create_account">Sign Up</string>
+    <string name="forgot_pass">Forgot my password</string>
+</resources>

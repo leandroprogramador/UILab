@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_dark">#FF2B2C3F</color>
+    <color name="blue_dark_variant">#FF2F3046</color>
+    <color name="blue_light">#FF6368d6</color>
+    <color name="purple">#FF2B2C3F</color>
+    <color name="purple_variant">#FF9d63d6</color>
+
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_low">#67FFFFFF</color>
+</resources>
